@@ -1,0 +1,33 @@
+# Mandatory items:
+
+[general]
+name=Route Sqlite
+qgisMinimumVersion=3.0
+description=This plugin creates route geometries to sqlite table containing from/to points using ORS
+version=0.5
+author=Mátyás Gede
+email=saman@map.elte.hu
+
+about=This plugin creates route geometries to sqlite table containing from/to points using ORS
+
+tracker=https://github.com/samanbey/route_sqlite/issues
+repository=https://github.com/samanbey/route_sqlite
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+#changelog=0.5 - first public version
+
+# Tags are comma separated with spaces allowed
+tags=python,routing,sqlite
+
+homepage=https://samanbey.github.io/route_sqlite
+category=Database
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
